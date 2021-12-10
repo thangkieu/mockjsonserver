@@ -1,19 +1,19 @@
 {
   "recipes": [],
   "campaign": {
-    message_html_key: 'template/DAT2021_Participation_R2.html',
-    config_csv_file: 'csv/Users.csv',
-    html_path:
-      'https://api.capdev.link/v1/blastoise/download_file/dGhhbmcua2lldUAyMzU5bWVkaWEuY29tL2Nzdi9Vc2Vycy5jc3Y=',
-    csv_path:
-      'https://api.capdev.link/v1/blastoise/download_file/dGhhbmcua2lldUAyMzU5bWVkaWEuY29tL3RlbXBsYXRlL0RBVDIwMjFfUGFydGljaXBhdGlvbl9SMi5odG1s',
-    name: 'Test Campaign',
-    send_by: 'kqthang1505@gmail.com',
-    subject: 'Congrats {{Name}} {{invalid}}',
-    to_emails: ['Work '],
-    schedule_dates: ['2021-03-04'],
-    attachments: ['Hello', 'Attachment'],
-    recurring: '',
-    allow_opt_out: false,
+    "message_html_key": "template/DAT2021_Participation_R2.html",
+    "config_csv_file": "csv/Users.csv",
+    "html_path":
+      "https://api.capdev.link/v1/blastoise/download_file/dGhhbmcua2lldUAyMzU5bWVkaWEuY29tL2Nzdi9Vc2Vycy5jc3Y=",
+    "csv_path":
+      "https://api.capdev.link/v1/blastoise/download_file/dGhhbmcua2lldUAyMzU5bWVkaWEuY29tL3RlbXBsYXRlL0RBVDIwMjFfUGFydGljaXBhdGlvbl9SMi5odG1s",
+    "name": "Test Campaign",
+    "send_by": "kqthang1505@gmail.com",
+    "subject": "Congrats {{Name}} {{invalid}}",
+    "to_emails": ["Work"],
+    "schedule_dates": ["2021-03-04"],
+    "attachments": ["Hello", "Attachment"],
+    "recurring": "",
+    "allow_opt_out": false
   }
 }
